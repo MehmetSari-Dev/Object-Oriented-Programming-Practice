@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9bd6acbcb08af4337bd608a021e6ab2f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameMusic: {fileID: 8300000, guid: 5c9f14a750b064e8ca70854d64bf269d, type: 3}
+  - winMusic: {instanceID: 0}
+  - loseMusic: {instanceID: 0}
+  - spaceShipSFX: {instanceID: 0}
+  - asteroidSFX: {instanceID: 0}
+  - meteorSFX: {instanceID: 0}
+  - explosionSFX: {instanceID: 0}
+  - missileSFX: {instanceID: 0}
+  - shipHitSFX: {fileID: 8300000, guid: 1dc8420a15a4a45cbb99299b5c20aeee, type: 3}
+  - UiSFX: {instanceID: 0}
+  - buttonClickSFX: {fileID: 8300000, guid: 62ee2e49cfb4b4b5ba0732d1063cf31c, type: 3}
+  - musicSource: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
