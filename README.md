@@ -25,7 +25,10 @@ Similar to Asteroids, however, the player has to collect ‘space junk’ in spa
 
 - Producing Complex Logic/Algorithm into Methods/Functions and calling them when needed. This hides unnecessary complex functions and keeps the code clean. 
 
+<h2>Tools Used:</h2> 
 
+- Unity Version 2022.3.44
+  
 
 
 https://github.com/user-attachments/assets/72d16a24-c96c-4087-9139-da0731077b5f
