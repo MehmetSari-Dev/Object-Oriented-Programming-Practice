@@ -10,6 +10,9 @@ Similar to Asteroids, however, the player has to collect ‘space junk’ in spa
 
 <h3>Encapsulation:</h3>
 
+- Having Getter and Setters, for private varaibles to limit the chance of indirect external modifications.
+- Encapsulating Logic into one Method/Function
+
 <h3>Inheritance:</h3>
 
 - A Parent Class for Space objects that is then inherited by subclasses for different types of space objects. For examople, Asteroids, space junks and meteors
@@ -19,3 +22,14 @@ Similar to Asteroids, however, the player has to collect ‘space junk’ in spa
 - Using Interfaces such as Healh and Inventory System
 
 <h3>Abstraction:</h3> 
+
+- Producing Complex Logic/Algorithm into Methods/Functions and calling them when needed. This hides unnecessary complex functions and keeps the code clean. 
+
+
+
+
+https://github.com/user-attachments/assets/72d16a24-c96c-4087-9139-da0731077b5f
+
+
+
+
